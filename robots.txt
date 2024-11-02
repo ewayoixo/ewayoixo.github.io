@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewayoixo.github.io/OWb/sitemap_index.txt
+Sitemap: https://ewayoixo.github.io/lCE/sitemap_index.txt
+Sitemap: https://ewayoixo.github.io/mfj/sitemap_index.txt
+Sitemap: https://ewayoixo.github.io/qGs/sitemap_index.txt
